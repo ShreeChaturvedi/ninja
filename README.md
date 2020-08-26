@@ -29,7 +29,7 @@ ninja aims to be a flexible and lightweight computer algebra system written pure
 - Degree of a polynomial
 
 ### Differentiation
-Valid operators include `+ - * / ^` and valid functions include `sin cos tan cot asin acos atan ln`.
+Valid operators include `+` `-` `*` `/` `^` and valid functions include `sin` `cos` `tan` `cot` `asin` `acos` `atan` `ln`.
 Only `x` is a valid variable and symbolic constants such as `e` are not understood.
 The differentiator can also correctly apply all of the following rules:
 - Power rule
@@ -38,3 +38,5 @@ The differentiator can also correctly apply all of the following rules:
 - Product rule
 - Quotient rule
 - Chain rule
+
+![](C:\Users\melod\OneDrive\Pictures\ninja_logo.png)
