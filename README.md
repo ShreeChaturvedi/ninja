@@ -75,5 +75,3 @@ Usage:
 D(f) for symbolic differentiation where f is the function to be differentiated.
 Dn(f, x, prec=1e-15) for numeric differentiation where f is the function to be differentiated, x is the value at which gradient is to be found, and prec is the value of dx. Smaller the dx, the more accurate the result.
 ```
-
-![](C:\Users\melod\OneDrive\Pictures\ninja_logo.png)
